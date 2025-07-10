@@ -1,6 +1,5 @@
 # PyQt6 Task Manager: Multilingual Desktop Task Organizer
 
-![Placeholder for screenshot](Replace with actual screenshot for better engagement)
 
 ## Overview
 This is a powerful **PyQt6 Task Manager** application built in Python, designed as a multilingual to-do app for efficient desktop task management. It supports recurring tasks, reminders, history tracking, and customizable themes. Ideal for users seeking a Python task organizer with SQLite database integration, cross-platform compatibility (Windows, macOS, Linux), and support for **English**, **Persian**, and **Chinese** languages. Whether you’re looking for a recurring tasks Python app, desktop task planner, or SQLite task database solution, this open-source project has you covered.
